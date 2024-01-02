@@ -1,3 +1,10 @@
-test1
-test2
-test3
+[
+  {
+    "name"="로드길",
+    "web_url"="http://uleo.uleo.net:13080"
+  },
+  {
+    "name"="진테스트",
+    "web_url"="http://uleo.uleo.net:13080"
+  }
+]
