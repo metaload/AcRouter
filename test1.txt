@@ -1,10 +1,10 @@
 [
   {
     "name":"로드길",
-    "web_url":"http://uleo.uleo.net:13080",
+    "web_url":"http://uleo.uleo.net:13080"
   },
   {
     "name":"진테스트",
-    "web_url":"http://uleo.uleo.net:13080",
+    "web_url":"http://uleo.uleo.net:13080"
   }
 ]
